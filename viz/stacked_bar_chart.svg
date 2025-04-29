@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 805 635" style="enable-background:new 0 0 805 635;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BEE5A0;}
+	.st1{fill:#9E0142;}
+	.st2{fill:#FDBE70;}
+	.st3{fill:none;stroke:#000000;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:9.6646px;}
+	.st6{fill:#7B7B7B;}
+	.st7{font-family:'Arial-BoldMT';}
+	.st8{font-size:11.5975px;}
+</style>
+<g id="Reprueban">
+	<rect x="45.1" y="464.8" width="92" height="108.2"/>
+	<rect x="146.6" y="431.5" width="92" height="141.5"/>
+	<rect x="248.1" y="327.4" width="92" height="245.6"/>
+	<rect x="349.6" y="377.4" width="92" height="195.7"/>
+	<rect x="451.1" y="394" width="92" height="179"/>
+	<rect x="552.6" y="485.6" width="92" height="87.4"/>
+	<rect x="654.1" y="360.7" width="92" height="212.3"/>
+</g>
+<g id="Aprueban_Visualidad_y_Medios">
+	<rect x="45.1" y="456.5" class="st0" width="92" height="8.3"/>
+	<rect x="146.6" y="406.5" class="st0" width="92" height="25"/>
+	<rect x="248.1" y="302.4" class="st0" width="92" height="25"/>
+	<rect x="349.6" y="314.9" class="st0" width="92" height="62.4"/>
+	<rect x="451.1" y="269.1" class="st0" width="92" height="124.9"/>
+	<rect x="552.6" y="373.2" class="st0" width="92" height="112.4"/>
+	<rect x="654.1" y="206.7" class="st0" width="92" height="154"/>
+</g>
+<g id="Aprueban_Diseñadores">
+	<rect x="45.1" y="452.3" class="st1" width="92" height="4.2"/>
+	<polygon class="st1" points="146.6,406.5 238.6,406.5 238.6,406.5 	"/>
+	<polygon class="st1" points="248.1,302.4 340.1,302.4 340.1,302.4 	"/>
+	<rect x="349.6" y="298.3" class="st1" width="92" height="16.7"/>
+	<rect x="451.1" y="240" class="st1" width="92" height="29.1"/>
+	<rect x="552.6" y="356.5" class="st1" width="92" height="16.7"/>
+	<rect x="654.1" y="173.4" class="st1" width="92" height="33.3"/>
+</g>
+<g id="Aprueban_Industrial_y_Servicios">
+	<polygon class="st2" points="45.1,452.3 137.1,452.3 137.1,452.3 	"/>
+	<rect x="146.6" y="385.7" class="st2" width="92" height="20.8"/>
+	<rect x="248.1" y="281.6" class="st2" width="92" height="20.8"/>
+	<rect x="349.6" y="260.8" class="st2" width="92" height="37.5"/>
+	<rect x="451.1" y="127.6" class="st2" width="92" height="112.4"/>
+	<rect x="552.6" y="294.1" class="st2" width="92" height="62.4"/>
+	<rect x="654.1" y="52.6" class="st2" width="92" height="120.7"/>
+</g>
+<g id="xAxis" transform="translate(0,560)">
+	<path class="st3" d="M36.1,13.5h720"/>
+	<g transform="translate(57.44323557237465,0)">
+		<line class="st3" x1="33.7" y1="13" x2="33.7" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 18.6225 28.597)" class="st4 st5">2021-2</text>
+	</g>
+	<g transform="translate(162.46215704824976,0)">
+		<line class="st3" x1="30.1" y1="13" x2="30.1" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 15.1002 28.597)" class="st4 st5">2022-1</text>
+	</g>
+	<g transform="translate(267.4810785241249,0)">
+		<line class="st3" x1="26.6" y1="13" x2="26.6" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 11.5779 28.597)" class="st4 st5">2022-2</text>
+	</g>
+	<g transform="translate(372.49999999999994,0)">
+		<line class="st3" x1="23.1" y1="13" x2="23.1" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 8.0555 28.597)" class="st4 st5">2023-1</text>
+	</g>
+	<g transform="translate(477.51892147587506,0)">
+		<line class="st3" x1="19.6" y1="13" x2="19.6" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 4.5332 28.597)" class="st4 st5">2023-2</text>
+	</g>
+	<g transform="translate(582.5378429517501,0)">
+		<line class="st3" x1="16.1" y1="13" x2="16.1" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 1.0104 28.597)" class="st4 st5">2024-1</text>
+	</g>
+	<g transform="translate(687.5567644276252,0)">
+		<line class="st3" x1="12.5" y1="13" x2="12.5" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 -2.5115 28.597)" class="st4 st5">2024-2</text>
+	</g>
+</g>
+<g id="yAxis">
+	<path class="st3" d="M36.1,573.5V32.3"/>
+	<g transform="translate(0,560.5)">
+		<line class="st3" x1="35.6" y1="13" x2="29.8" y2="13"/>
+		<text transform="matrix(1 0 0 1 21.5228 16.1127)" class="st4 st5">0</text>
+	</g>
+	<g transform="translate(0,517.4230769230769)">
+		<line class="st3" x1="35.6" y1="14.5" x2="29.8" y2="14.5"/>
+		<text transform="matrix(1 0 0 1 16.1478 17.5577)" class="st4 st5">10</text>
+	</g>
+	<g transform="translate(0,474.34615384615387)">
+		<line class="st3" x1="35.6" y1="15.9" x2="29.8" y2="15.9"/>
+		<text transform="matrix(1 0 0 1 16.1478 19.0019)" class="st4 st5">20</text>
+	</g>
+	<g transform="translate(0,431.2692307692307)">
+		<line class="st3" x1="35.6" y1="17.4" x2="29.8" y2="17.4"/>
+		<text transform="matrix(1 0 0 1 16.1478 20.447)" class="st4 st5">30</text>
+	</g>
+	<g transform="translate(0,388.1923076923077)">
+		<line class="st3" x1="35.6" y1="18.8" x2="29.8" y2="18.8"/>
+		<text transform="matrix(1 0 0 1 16.1478 21.892)" class="st4 st5">40</text>
+	</g>
+	<g transform="translate(0,345.11538461538464)">
+		<line class="st3" x1="35.6" y1="20.2" x2="29.8" y2="20.2"/>
+		<text transform="matrix(1 0 0 1 16.1478 23.3371)" class="st4 st5">50</text>
+	</g>
+	<g transform="translate(0,302.03846153846155)">
+		<line class="st3" x1="35.6" y1="21.7" x2="29.8" y2="21.7"/>
+		<text transform="matrix(1 0 0 1 16.1478 24.7812)" class="st4 st5">60</text>
+	</g>
+	<g transform="translate(0,258.96153846153845)">
+		<line class="st3" x1="35.6" y1="23.1" x2="29.8" y2="23.1"/>
+		<text transform="matrix(1 0 0 1 16.1478 26.2263)" class="st4 st5">70</text>
+	</g>
+	<g transform="translate(0,215.88461538461536)">
+		<line class="st3" x1="35.6" y1="24.6" x2="29.8" y2="24.6"/>
+		<text transform="matrix(1 0 0 1 16.1478 27.6709)" class="st4 st5">80</text>
+	</g>
+	<g transform="translate(0,172.80769230769232)">
+		<line class="st3" x1="35.6" y1="26" x2="29.8" y2="26"/>
+		<text transform="matrix(1 0 0 1 16.1478 29.116)" class="st4 st5">90</text>
+	</g>
+	<g transform="translate(0,129.7307692307692)">
+		<line class="st3" x1="35.6" y1="27.5" x2="29.8" y2="27.5"/>
+		<text transform="matrix(1 0 0 1 10.7728 30.5606)" class="st4 st5">100</text>
+	</g>
+	<g transform="translate(0,86.65384615384616)">
+		<line class="st3" x1="35.6" y1="28.9" x2="29.8" y2="28.9"/>
+		<text transform="matrix(1 0 0 1 11.4901 32.0057)" class="st4 st5">110</text>
+	</g>
+	<g transform="translate(0,43.57692307692305)">
+		<line class="st3" x1="35.6" y1="30.4" x2="29.8" y2="30.4"/>
+		<text transform="matrix(1 0 0 1 10.7728 33.4503)" class="st4 st5">120</text>
+	</g>
+	<g transform="translate(0,0.5)">
+		<line class="st3" x1="35.6" y1="31.8" x2="29.8" y2="31.8"/>
+		<text transform="matrix(1 0 0 1 10.7728 34.8954)" class="st4 st5">130</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 737.3851 588.7136)" class="st6 st7 st8">Semestre</text>
+<text transform="matrix(1 0 0 1 11.8162 20.5481)" class="st6 st7 st8">Inscritos</text>
+<text transform="matrix(1 0 0 1 85.4344 616.8356)" class="st6 st7 st8">Reprobados</text>
+<rect x="61.7" y="605" width="18.2" height="18.2"/>
+<text transform="matrix(1 0 0 1 190.456 616.8362)" class="st6 st7 st8">Aprueban Visualidad y Medios</text>
+<rect x="166.7" y="605" class="st0" width="18.2" height="18.2"/>
+<text transform="matrix(1 0 0 1 568.579 616.8358)" class="st6 st7 st8">Aprueban Industrial y Servicios</text>
+<rect x="544.8" y="605" class="st2" width="18.2" height="18.2"/>
+<text transform="matrix(1 0 0 1 398.8916 616.8358)" class="st6 st7 st8">Aprueban Diseñadorxs</text>
+<rect x="375.1" y="605" class="st1" width="18.2" height="18.2"/>
+</svg>
